@@ -47,7 +47,7 @@ function PreLoader2() {
         </>
       ) : (
         <>
-          <h1>Your Data</h1>
+          <h1>Data/Sight</h1>
           <br />
           <h6 style={{ position: "Absolute", right: "5rem", bottom: "0" }}>
             <a
